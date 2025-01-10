@@ -2,7 +2,7 @@ import React, { Suspense, lazy } from "react";
 // import { Inter } from "next/font/google";
 import NavBar from "./components/NavBar";
 import CoinPage from "./[coinId]";
-import Tabs from "./components/tabs";
+import Tabs from "./components/Tabs";
 import About from "./components/About";
 import Team from "./components/Team";
 import Performance from "./components/Performance";
